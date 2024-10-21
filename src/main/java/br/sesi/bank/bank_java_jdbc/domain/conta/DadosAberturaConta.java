@@ -1,4 +1,4 @@
-package main.java.br.sesi.bank.bank_java_jdbc.domain.conta;
+package br.sesi.bank.bank_java_jdbc.domain.conta;
 
 import main.java.br.sesi.bank.bank_java_jdbc.domain.cliente.DadosCadastroCliente;
 
